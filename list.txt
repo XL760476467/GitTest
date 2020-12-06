@@ -1,14 +1,8 @@
-drwxr-xr-x 1 XL 197121 0  9月 28 23:10 '$RECYCLE.BIN'/
-drwxr-xr-x 1 XL 197121 0 10月 18 19:35  BaiduNetdiskDownload/
-drwxr-xr-x 1 XL 197121 0  9月 24 21:45  Kugou/
 drwxr-xr-x 1 XL 197121 0 12月  5 23:39  L/
 drwxr-xr-x 1 XL 197121 0  5月 17  2020  PrintTest/
 drwxr-xr-x 1 XL 197121 0 12月  3 17:21  rrms-security/
 drwxr-xr-x 1 XL 197121 0  9月 28 23:12 'System Volume Information'/
 drwxr-xr-x 1 XL 197121 0 12月  6 08:26  Test/
-drwxr-xr-x 1 XL 197121 0  1月 15  2020  xlsInitImg/
-drwxr-xr-x 1 XL 197121 0 12月  1 22:51  其他/
-drwxr-xr-x 1 XL 197121 0  1月 31  2020  迅雷下载/
 add new 
 update file
 add 1206
